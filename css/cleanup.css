@@ -1,1 +1,16 @@
 /* write your override styles here */
+.tag-1 {
+    background: url(../images/tag-1.png) no-repeat;
+    z-index: 7;
+    display: block;
+    padding: 15px;
+  }
+  #wall .tag-1 {
+    display: none;
+    background-color: aliceblue;
+    width: 50%;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  
